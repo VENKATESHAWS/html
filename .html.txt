@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>VENKKATESH PUSHADAPU</title>
+</head>VENKAT
+<body>DEVOPS TUTORIAL
+
+<h1>PUSHADAPU VENKATESH</h1>
+<p>THIS IS MY FIRST WEBSITE FOR TESTING.</p>
+<p>YOU CAN VIST THIS SITE FOR DEVOPS INFORMATION.</p>
+</body>
+</html>
+
+
+
+
+
